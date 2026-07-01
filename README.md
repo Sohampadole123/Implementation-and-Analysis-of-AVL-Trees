@@ -265,7 +265,7 @@ Thank You
 ## Compiler
 
 ```
-g++ -std=c++17 main.cpp -o avl
+g++ -std=c++17 AVL-Tree.cpp -o avl
 ```
 
 Run:
