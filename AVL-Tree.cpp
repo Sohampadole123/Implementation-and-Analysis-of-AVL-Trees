@@ -8,7 +8,7 @@ using namespace std;
 
 /*
 ----------------------------------------------------
-AVL Tree Management System
+AVL Tree IMPLEMENTATION AND ANALYSIS
 Language: C++17
 
 Major Operation Complexities:
@@ -505,7 +505,7 @@ int main() {
     while (true) {
 
         cout << "\n=================================\n";
-        cout << " AVL TREE MANAGEMENT SYSTEM\n";
+        cout << " AVL TREE IMPLEMENTATION\n";
         cout << "=================================\n";
 
         cout << "1. Insert\n";
